@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Colorful]]></title>
-  <link href="http://kukywin.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: IT | Colorful]]></title>
+  <link href="http://kukywin.github.com/blog/categories/it/atom.xml" rel="self"/>
   <link href="http://kukywin.github.com/"/>
   <updated>2013-01-11T10:27:58-08:00</updated>
   <id>http://kukywin.github.com/</id>
@@ -19,7 +19,7 @@
     <updated>2013-01-11T08:56:00-08:00</updated>
     <id>http://kukywin.github.com/blog/2013/01/11/how-to-generate-this-webpage</id>
     <content type="html"><![CDATA[<p>花了一个晚上的时间研究了一下octopress,很好玩的blog系统，
-就像它的宣传口号说的&#8221;A blogging framework for hackers&#8221;。特别是可以用markdown语言来写blog，避免了排版的麻烦,很有诱惑力。</p>
+就像它的宣传口号说的"A blogging framework for hackers"。特别是可以用markdown语言来写blog，避免了排版的麻烦,很有诱惑力。</p>
 
 <p>首先，octopress是基于ruby开发的一个blog系统，所以得用ruby来进行部署。
 我的系统是跑在windows下的虚拟机中的ubuntu12.04服务器版本。通过sanba
