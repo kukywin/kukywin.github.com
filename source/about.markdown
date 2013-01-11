@@ -6,3 +6,4 @@ comments: true
 sharing: true
 footer: true
 ---
+A boy who enjoy ruby and other interesting gadget

@@ -1,8 +1,0 @@
----
-layout: post
-title: "hello"
-date: 2013-01-11 07:23
-comments: true
-categories: git 
----
-hello git
