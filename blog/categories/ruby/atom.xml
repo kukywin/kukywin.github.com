@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: IT | Colorful]]></title>
-  <link href="http://kukywin.github.com/blog/categories/it/atom.xml" rel="self"/>
+  <title><![CDATA[Category: ruby | Colorful]]></title>
+  <link href="http://kukywin.github.com/blog/categories/ruby/atom.xml" rel="self"/>
   <link href="http://kukywin.github.com/"/>
-  <updated>2013-01-11T10:27:58-08:00</updated>
+  <updated>2013-01-12T00:48:36-08:00</updated>
   <id>http://kukywin.github.com/</id>
   <author>
     <name><![CDATA[kukywin]]></name>
@@ -16,14 +16,14 @@
   <entry>
     <title type="html"><![CDATA[how to generate a webpage]]></title>
     <link href="http://kukywin.github.com/blog/2013/01/11/how-to-generate-this-webpage/"/>
-    <updated>2013-01-11T08:56:00-08:00</updated>
+    <updated>2013-01-11T23:56:00-08:00</updated>
     <id>http://kukywin.github.com/blog/2013/01/11/how-to-generate-this-webpage</id>
     <content type="html"><![CDATA[<p>花了一个晚上的时间研究了一下octopress,很好玩的blog系统，
-就像它的宣传口号说的"A blogging framework for hackers"。特别是可以用markdown语言来写blog，避免了排版的麻烦,很有诱惑力。</p>
+就像它的宣传口号说的--"A blogging framework for hackers"。   特别是可以用markdown语言来写blog，避免了排版的麻烦,很有诱惑力。</p>
 
 <p>首先，octopress是基于ruby开发的一个blog系统，所以得用ruby来进行部署。
 我的系统是跑在windows下的虚拟机中的ubuntu12.04服务器版本。通过sanba
-与windows连接，简单说就是服务器是linux，开发用的是windows,即具有windows
+与windows连接，简单说就是服务器是linux，开发用的是windows,既具有windows
 编辑的便捷性又避免本地服务端与远程服务器不兼容的毛病，穷人的类mac机,开发
 工具是装了vi插件的Sublime Text2。</p>
 
@@ -76,8 +76,6 @@ gandi.net那里弄来的，碰巧遇到免费一年期的活动,就注册了一�
 DNS解析,这样墙内访问页面就比较快</p>
 
 <h5>参考资料来自:</h5>
-
-<p>感谢happycasts</p>
 
 <blockquote><p><a href="http://octopress.org/docs/">octopress.org</a>
 <a href="https://github.com/happycasts/happycasts.github.com">happycasts</a></p></blockquote>
